@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/el3ctro/Documents/Games/MyFirstGame/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/helicopter.png",
+        "source": "/Users/el3ctro/Documents/Games/MyFirstGame/app/src/main/res/drawable-nodpi/helicopter.png"
+    },
+    {
+        "merged": "/Users/el3ctro/Documents/Games/MyFirstGame/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/missile.png",
+        "source": "/Users/el3ctro/Documents/Games/MyFirstGame/app/src/main/res/drawable-nodpi/missile.png"
+    },
+    {
+        "merged": "/Users/el3ctro/Documents/Games/MyFirstGame/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/black_screen.png",
+        "source": "/Users/el3ctro/Documents/Games/MyFirstGame/app/src/main/res/drawable-nodpi/black_screen.png"
+    },
+    {
+        "merged": "/Users/el3ctro/Documents/Games/MyFirstGame/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/circle.png",
+        "source": "/Users/el3ctro/Documents/Games/MyFirstGame/app/src/main/res/drawable-nodpi/circle.png"
+    },
+    {
+        "merged": "/Users/el3ctro/Documents/Games/MyFirstGame/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/explosion.png",
+        "source": "/Users/el3ctro/Documents/Games/MyFirstGame/app/src/main/res/drawable-nodpi/explosion.png"
+    },
+    {
+        "merged": "/Users/el3ctro/Documents/Games/MyFirstGame/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/player_line.png",
+        "source": "/Users/el3ctro/Documents/Games/MyFirstGame/app/src/main/res/drawable-nodpi/player_line.png"
+    },
+    {
+        "merged": "/Users/el3ctro/Documents/Games/MyFirstGame/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/brick.png",
+        "source": "/Users/el3ctro/Documents/Games/MyFirstGame/app/src/main/res/drawable-nodpi/brick.png"
+    },
+    {
+        "merged": "/Users/el3ctro/Documents/Games/MyFirstGame/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/black_screen_copy_copy.png",
+        "source": "/Users/el3ctro/Documents/Games/MyFirstGame/app/src/main/res/drawable-nodpi/black_screen_copy_copy.png"
+    },
+    {
+        "merged": "/Users/el3ctro/Documents/Games/MyFirstGame/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/pong_start_screen.png",
+        "source": "/Users/el3ctro/Documents/Games/MyFirstGame/app/src/main/res/drawable-nodpi/pong_start_screen.png"
+    },
+    {
+        "merged": "/Users/el3ctro/Documents/Games/MyFirstGame/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/grassbg1.png",
+        "source": "/Users/el3ctro/Documents/Games/MyFirstGame/app/src/main/res/drawable-nodpi/grassbg1.png"
+    }
+]
